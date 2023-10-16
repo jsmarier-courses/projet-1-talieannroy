@@ -131,3 +131,7 @@ color: #db0e0e;
 width: 600px;
 height: auto;
 }
+
+iframe {
+border:"0" 
+}
