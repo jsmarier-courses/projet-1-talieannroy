@@ -2,7 +2,7 @@
 
 ##Nom de l'étudiant | Student Name:
 
-John Smith
+Talie-Ann Roy
 
 ##GitHub Pages:
 
@@ -12,9 +12,9 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 
 ##CSS:
 
-1. I used crimson as a colour for my h1 headings.
-2. J'ai ajouté une classe h2-bleu à certains titres de niveau 2 et ai modifié la feuille CSS pour les rendre bleus.
-3. I changed the background colour from whitesmoke to darkblue.
-4. J'ai mis Arial comme police par défaut pour tous les paragraphes.
-5. I used a font size of 18px in my paragraphs.
-6. Etc.
+1. J'ai modifié les titres de mes listes en les mettant en Times New Roman, rouge et en 26px.
+2. J'ai changé les éléments de mes listes en les mettant noir, 18px, en italic et en Times New Roman.
+3. J'ai changé l'écriture de mes paragraphes pour les mettres en Times New Roman, noir et en 16px.
+4. J'ai mis mes titres h1 en Times New Roman, 30px et rouge.
+5. J'ai changé la couleur de fond du footer pour bleu.
+6. J'ai modifié le logo pour qu'il soit en Times New Roman et en 40px. 
