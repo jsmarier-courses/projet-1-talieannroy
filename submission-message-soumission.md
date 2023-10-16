@@ -19,3 +19,7 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 5. J'ai changé la couleur de fond du footer pour bleu.
 6. J'ai modifié le logo pour qu'il soit en Times New Roman et en 40px. 
 7. J'ai aussi modifié la grandeur de mes images pour les mettre en 600 px. 
+
+https://jsmarier-courses.github.io/projet-1-talieannroy/ 
+
+Talie-Ann Roy
